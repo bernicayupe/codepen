@@ -1,0 +1,12 @@
+body {
+  font-family: system-ui;
+  background: #f0d09;
+  color: pink;
+  text-align: center;
+}
+
+p {
+  color:blue;
+  font:'Arial';
+  font-style:italic;  
+}
